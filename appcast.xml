@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>LunchBox</title>
+        <title>SnackTray</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Mon, 27 Apr 2026 12:55:32 -0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Sun, 10 May 2026 15:33:26 -0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/KrookedLilly/lunchbox-releases/releases/download/v1.0.4/LunchBox-1.0.4.dmg" length="3293604" type="application/octet-stream" sparkle:edSignature="QnbrNydrKxBIC4k0ghzyAfzYuMhxHp662mNxbhWReQQZRWKbzfZQwDqxGTZHNiN2Pm4TOAHU7jiYfvYBsJCOBQ=="/>
+            <enclosure url="https://github.com/KrookedLilly/lunchbox-releases/releases/download/v1.0.5/SnackTray-1.0.5.dmg" length="3807338" type="application/octet-stream" sparkle:edSignature="vXzc4tH94Qh48Eah/FZcMl1kXRhLGz7FzYRuMkL7w8orOqijM6jwM9TfBdoF0xhs75cnYHtyIORWPsSnIWkZDw=="/>
         </item>
     </channel>
 </rss>
