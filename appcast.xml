@@ -8,11 +8,17 @@
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SnackTray 1.1.1</h2>
+            <description><![CDATA[<h2>Version 1.1.1</h2>
 <ul>
   <li>License keys now activate even if a stray space or line break came along when the key was copied. Copying from a purchase email picks one up easily, and the key was previously sent with it and rejected.</li>
 </ul>
-]]></description>
+<h2>Version 1.1.0</h2>
+<ul>
+  <li>Added right-click drag to snap. Hold the right mouse button on a window's title bar and drag to snap it, with no modifier key needed. Right-clicking anywhere else in a window behaves exactly as before. Off by default, under Behavior then Snapping.</li>
+  <li>A mouse button can now act as the snap trigger. The keyboard modifier and the mouse button are set independently, so you can use either one on its own or both together to start a drag-to-snap.</li>
+  <li>Added window previews on Dock hover, as an experimental feature. Hold the pointer over an app in the Dock to see its open windows, then click one to bring it forward. Needs macOS 14 or later and Screen Recording permission. Off by default, under Behavior then Experimental, a new section for features that are still unfinished and may change.</li>
+</ul>
+            ]]></description>
             <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.1.1/SnackTray-1.1.1.dmg" length="3438436" type="application/octet-stream" sparkle:edSignature="r4pBmMrdN7hLAwuGEzuvyDzylVLztCDHZgmnwO2jKvvRxrd5EAyp7FerEYOvjzZO/lG5HeLRoSueXyMMsGfbDA=="/>
         </item>
     </channel>
