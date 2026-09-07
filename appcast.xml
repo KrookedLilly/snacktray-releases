@@ -3,23 +3,30 @@
     <channel>
         <title>SnackTray</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Thu, 03 Sep 2026 07:37:53 -0700</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Version 1.1.1</h2>
+            <title>1.2.0</title>
+            <pubDate>Sun, 06 Sep 2026 22:40:16 -0700</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SnackTray 1.2.0</h2>
 <ul>
-  <li>License keys now activate even if a stray space or line break came along when the key was copied. Copying from a purchase email picks one up easily, and the key was previously sent with it and rejected.</li>
+  <li>### Added</li>
+  <li>Keep a window in front. Hold your snap modifier and right-click a window's title bar,</li>
+  <li>  then choose Pin to Front, and that window stays visible while you work in other apps.</li>
+  <li>  Unpin it from the window itself, the same title bar menu, or the SnackTray menu. There</li>
+  <li>  is also a shortcut, Shift Control P by default. Needs Screen Recording access, and works</li>
+  <li>  on the Space the window lives on. Off by default, under Behavior then Experimental.</li>
+  <li>### Changed</li>
+  <li>SnackTray now requires macOS 14 or later.</li>
+  <li>Window previews on Dock hover now update live rather than showing a still picture taken</li>
+  <li>  when the pointer arrived. A video, a terminal or a build log shows what it is doing.</li>
+  <li>  Previews still appear instantly from the last picture while the live view starts.</li>
+  <li>Update alerts are easier to notice. SnackTray runs in the menu bar with no Dock icon, so</li>
+  <li>  an update found in the background could open behind whatever you were working in. The</li>
+  <li>  menu bar icon now carries a dot and the menu reads Update Available until you look.</li>
 </ul>
-<h2>Version 1.1.0</h2>
-<ul>
-  <li>Added right-click drag to snap. Hold the right mouse button on a window's title bar and drag to snap it, with no modifier key needed. Right-clicking anywhere else in a window behaves exactly as before. Off by default, under Behavior then Snapping.</li>
-  <li>A mouse button can now act as the snap trigger. The keyboard modifier and the mouse button are set independently, so you can use either one on its own or both together to start a drag-to-snap.</li>
-  <li>Added window previews on Dock hover, as an experimental feature. Hold the pointer over an app in the Dock to see its open windows, then click one to bring it forward. Needs macOS 14 or later and Screen Recording permission. Off by default, under Behavior then Experimental, a new section for features that are still unfinished and may change.</li>
-</ul>
-            ]]></description>
-            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.1.1/SnackTray-1.1.1.dmg" length="3438436" type="application/octet-stream" sparkle:edSignature="r4pBmMrdN7hLAwuGEzuvyDzylVLztCDHZgmnwO2jKvvRxrd5EAyp7FerEYOvjzZO/lG5HeLRoSueXyMMsGfbDA=="/>
+]]></description>
+            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.2.0/SnackTray-1.2.0.dmg" length="3520881" type="application/octet-stream" sparkle:edSignature="vx4b0h2z6a8Aw4At3J/BP9oWkswSqfBl9WgaeGWRI+9i6a4B5x/DWk0q1lIeC2FvhEOQZr4htsUWglIbyC3yBg=="/>
         </item>
     </channel>
 </rss>
