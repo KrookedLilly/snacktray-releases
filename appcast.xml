@@ -3,30 +3,17 @@
     <channel>
         <title>SnackTray</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Sun, 06 Sep 2026 22:40:16 -0700</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Mon, 07 Sep 2026 18:30:43 -0700</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SnackTray 1.2.0</h2>
+            <description><![CDATA[<h2>SnackTray 1.2.1</h2>
 <ul>
-  <li>### Added</li>
-  <li>Keep a window in front. Hold your snap modifier and right-click a window's title bar,</li>
-  <li>  then choose Pin to Front, and that window stays visible while you work in other apps.</li>
-  <li>  Unpin it from the window itself, the same title bar menu, or the SnackTray menu. There</li>
-  <li>  is also a shortcut, Shift Control P by default. Needs Screen Recording access, and works</li>
-  <li>  on the Space the window lives on. Off by default, under Behavior then Experimental.</li>
-  <li>### Changed</li>
-  <li>SnackTray now requires macOS 14 or later.</li>
-  <li>Window previews on Dock hover now update live rather than showing a still picture taken</li>
-  <li>  when the pointer arrived. A video, a terminal or a build log shows what it is doing.</li>
-  <li>  Previews still appear instantly from the last picture while the live view starts.</li>
-  <li>Update alerts are easier to notice. SnackTray runs in the menu bar with no Dock icon, so</li>
-  <li>  an update found in the background could open behind whatever you were working in. The</li>
-  <li>  menu bar icon now carries a dot and the menu reads Update Available until you look.</li>
+  <li>The close button on a Mission Control window thumbnail now matches the one macOS puts on a Space: same size, same grey cross, same soft shadow. It was smaller with a black cross before, which read as a different control sitting on top of the system's.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.2.0/SnackTray-1.2.0.dmg" length="3520881" type="application/octet-stream" sparkle:edSignature="vx4b0h2z6a8Aw4At3J/BP9oWkswSqfBl9WgaeGWRI+9i6a4B5x/DWk0q1lIeC2FvhEOQZr4htsUWglIbyC3yBg=="/>
+            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.2.1/SnackTray-1.2.1.dmg" length="3522707" type="application/octet-stream" sparkle:edSignature="LhPuBDYKtDFogYIKzwRq4dlL6gsEtrjAXCJ9VFw8f5ZODjSjLSiDkaOsBT1zAgGluERI1h7vS+S0G2VYj6MsBA=="/>
         </item>
     </channel>
 </rss>
