@@ -3,17 +3,17 @@
     <channel>
         <title>SnackTray</title>
         <item>
-            <title>1.2.1</title>
-            <pubDate>Mon, 07 Sep 2026 18:30:43 -0700</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <title>1.3.0</title>
+            <pubDate>Wed, 09 Sep 2026 18:24:09 -0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SnackTray 1.2.1</h2>
+            <description><![CDATA[<h2>SnackTray 1.3.0</h2>
 <ul>
-  <li>The close button on a Mission Control window thumbnail now matches the one macOS puts on a Space: same size, same grey cross, same soft shadow. It was smaller with a black cross before, which read as a different control sitting on top of the system's.</li>
+  <li>Snapped windows give their size back. Drag a window out of its zone and it returns to the size it was before you snapped it, staying under your cursor as it goes. It remembers the size from before the first snap, so moving a window from one zone to another and then out still gives you back the window you started with.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.2.1/SnackTray-1.2.1.dmg" length="3522707" type="application/octet-stream" sparkle:edSignature="LhPuBDYKtDFogYIKzwRq4dlL6gsEtrjAXCJ9VFw8f5ZODjSjLSiDkaOsBT1zAgGluERI1h7vS+S0G2VYj6MsBA=="/>
+            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.3.0/SnackTray-1.3.0.dmg" length="3537057" type="application/octet-stream" sparkle:edSignature="+79A0XnHpqOwcUiaOI7njZbwsOOOlIZ57VsOKEE1vm7Dk5JBuEg/U34pfyeqqMLlpQABXvm+VvKH087dCw6YAw=="/>
         </item>
     </channel>
 </rss>
