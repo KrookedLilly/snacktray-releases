@@ -3,20 +3,17 @@
     <channel>
         <title>SnackTray</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Wed, 11 Nov 2026 09:56:25 -0800</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.4.1</title>
+            <pubDate>Wed, 11 Nov 2026 16:03:10 -0800</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SnackTray 1.4.0</h2>
+            <description><![CDATA[<h2>SnackTray 1.4.1</h2>
 <ul>
-  <li>SnackTray is now free. The trial and license keys are gone, and every feature works for everyone, with no key to enter and no time limit.</li>
-  <li>To everyone who bought a license: thank you very much. There is nothing more you need to do.</li>
-  <li>If you would like to support SnackTray from here, the menu bar menu now has Donate on Ko-fi. Settings has an About tab in place of the License tab, with the same link, and About SnackTray in the menu now opens it.</li>
-  <li>If your trial had run out, everything it locked is back.</li>
+  <li>Press Esc while dragging a window to hide the zones. The window keeps following your cursor and stays wherever you let go, without snapping. This works with right-click drag too, where Esc used to send the window back to where it started.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.4.0/SnackTray-1.4.0.dmg" length="3619213" type="application/octet-stream" sparkle:edSignature="5rGi4aVlQINv5HqN3UHAKFdui4YCpfg9Fs1IwSVsBVNt+mXrAvEK6+3OSOHF1AVdVENw35sKdXbQzjUXpcP1Bw=="/>
+            <enclosure url="https://github.com/KrookedLilly/snacktray-releases/releases/download/v1.4.1/SnackTray-1.4.1.dmg" length="3621863" type="application/octet-stream" sparkle:edSignature="imjoEsRCpK4jMnkbqXzm7D1pmRZG40PB940bNMWBMZx2HkLimwomXxp2mLSVV27jYXG+5pX8+ZswUs3e8MdkCg=="/>
         </item>
     </channel>
 </rss>
